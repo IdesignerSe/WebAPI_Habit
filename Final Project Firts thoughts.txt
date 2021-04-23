@@ -1,5 +1,5 @@
  Proof of concept:
- 1. A database driven web application using MVC
+ 1. A database driven web application using MVC
 
 The Idea is to buil the prood of concept for a dietary program. 
 Program your eating habits. Base in the existing ground diets types.
@@ -58,6 +58,3 @@ MVP should inclued a direct feetback of all functions and views.
 Step 5: Design a Roadmap
 roadmap as a set of blueprints for constructing a building.
 clear goal.
-
-
-
