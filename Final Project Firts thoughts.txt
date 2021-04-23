@@ -1,5 +1,5 @@
  Proof of concept:
-             1.        A database driven web application using MVC
+ 1. A database driven web application using MVC
 
 The Idea is to buil the prood of concept for a dietary program. 
 Program your eating habits. Base in the existing ground diets types.
@@ -33,11 +33,11 @@ This prove of concept should use database driven.
 use and api with vegetales properties or other products
 
 Proof of Concept? well!
-Step 1: Prove the Need -new feuture 
-or way of thinking about diets and programs have come.
+Step 1: Prove the Need of a new feuture 
+or way of thinking about doing diets and Changing eating habits.
 
-Step 2: Map Pain Points to Solutions and Get Feedback
-List of solutions, go back to the users and 
+Step 2: Map Points Solutions should get Feedback.
+List of solutions or comment, so we go back to the users and 
 stakeholders you initially interviewed and learn 
 their reactions and responses to the recommended solutions.
 Describe how you envision the product working, 
