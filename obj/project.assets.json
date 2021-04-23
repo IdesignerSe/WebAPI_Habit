@@ -5623,11 +5623,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elev\\source\\repos\\WebAPI_Habit\\WebAPI_Habit.csproj",
+      "projectUniqueName": "C:\\Users\\elev\\Documents\\GitHub\\WebAPI_Habit\\WebAPI_Habit.csproj",
       "projectName": "WebAPI_Habit",
-      "projectPath": "C:\\Users\\elev\\source\\repos\\WebAPI_Habit\\WebAPI_Habit.csproj",
+      "projectPath": "C:\\Users\\elev\\Documents\\GitHub\\WebAPI_Habit\\WebAPI_Habit.csproj",
       "packagesPath": "C:\\Users\\elev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elev\\source\\repos\\WebAPI_Habit\\obj\\",
+      "outputPath": "C:\\Users\\elev\\Documents\\GitHub\\WebAPI_Habit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
