@@ -28,6 +28,7 @@ namespace WebAPI_Habit
         {
 
             services.AddControllers();
+            services.AddDbContext<HabitContext>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "WebAPI_Habit", Version = "v1" });
