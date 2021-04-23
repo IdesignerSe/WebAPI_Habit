@@ -1,8 +1,8 @@
- Proof of concept:
  1. A database driven web application using MVC
+(PROOF OF CONCEPT)
 
-The Idea is to buil the prood of concept for a dietary program. 
-Program your eating habits. Base in the existing ground diets types.
+The Idea is to build  a proof of concept for a dietary program based on reinforcing habits.
+Is basically a eating habit program. Base in the existing ground diets types.
 
 You will be able to :
 
@@ -12,38 +12,40 @@ A) Create a new Program with these parameters:
 -Set a time or goal frame of time to archive 
 this training habit (expect nor necessary obligatory)
 
-- Set a list of ingredientes to check on your list 
-- would be good if an open api with 
-the content of producsts or veggies to add.
-(add manually in case not existance)
+- Set a list of ingredientes to check on your list.
 
-- Description of you own diet.
-- Write clear your expectancy to archive. for exemple. loss weight or clean your gut.
+- would be good if an open API Server already working outside of 
+this application could be helpful as a source for 
+the content products or veggies to add to the list.
+(add manually in case not existence)
 
-B) Already set up programs that exist in a list.
+- Description of your own diet.
+- Write clearly about your expectancy to archive. 
+For example: lose weight or clean your gut.
 
-C) Programs should send a sort of remainning message.
+B) Already set up to start/stop programs that exist in a list.
 
-D) You should have a page for user.
+C) Programs should send a sort of remaining message by email.
+
+D) You should have a page for users.
    We should provide logging credentials.
 
-E) it should have a instant feeback form for the users.
+This requirement is for Stakeholder while testing this application.
+E) it should have an instant feedback form for all the stakeholders.
 
-This prove of concept should use database driven.
+This proof of concept should use database driven.
 use and api with vegetales properties or other products
 
 Proof of Concept? well!
-Step 1: Prove the Need of a new feuture 
+Step 1: Prove the Need of a new future 
 or way of thinking about doing diets and Changing eating habits.
 
 Step 2: Map Points Solutions should get Feedback.
-List of solutions or comment, so we go back to the users and 
-stakeholders you initially interviewed and learn 
-their reactions and responses to the recommended solutions.
-Describe how you envision the product working, 
-and ask for their feedback.
-This input will provide you with 
-valuable insight as you move forward.
+List of solutions or comment, so we go back to the users or all the  
+stakeholders you initially interviewed and learn from their
+reactions and responses to the recommended solutions.
+Describe how you envision the product working.
+
 
 Step 3: Prototype Your Solution and Test UI/UX
 Record their use of the product to track 
@@ -53,8 +55,12 @@ resonates with users and stakeholders
 
 Step 4: Create a Minimum Viable Product - An MVP
 Resonates with users and stakeholders???
-MVP should inclued a direct feetback of all functions and views.
+MVP should include a direct feetback of all functions and views.
 
 Step 5: Design a Roadmap
 roadmap as a set of blueprints for constructing a building.
 clear goal.
+
+Best Regards
+/Heber Andrade
+wwww.idesigner.se
